@@ -23,7 +23,7 @@ This dashboard allows HR teams and analysts to:
 ### 1. Clone the repository
 
 bash
-git clone https://github.com/yourusername/hr-analytics-dashboard.git
+git clone https://github.com/sadarudeen/hr-analytics-dashboard.git
 cd hr-analytics-dashboard
 
 Install dependencies
