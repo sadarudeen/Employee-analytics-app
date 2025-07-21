@@ -36,6 +36,9 @@ Then open your browser and go to:
  http://127.0.0.1:8050
 
 <img width="547" height="796" alt="Screenshot 2025-07-21 125317" src="https://github.com/user-attachments/assets/fce8dfbd-7e2b-430c-a3d5-72389f92875f" />
+<img width="765" height="801" alt="Screenshot 2025-07-21 125352" src="https://github.com/user-attachments/assets/b6ec8807-7ee4-4ed1-8ad9-baebe67498e5" />
+<img width="797" height="572" alt="Screenshot 2025-07-21 125422" src="https://github.com/user-attachments/assets/6a42623d-7c21-4366-b1f9-23973534110f" />
+<img width="821" height="357" alt="Screenshot 2025-07-21 125442" src="https://github.com/user-attachments/assets/17be3a7a-c82d-4195-93a1-9f3adc68f8dd" />
 
 ## Example Use Cases
 Internal HR performance dashboards
