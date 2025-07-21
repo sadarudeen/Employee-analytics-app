@@ -20,11 +20,40 @@ This dashboard allows HR teams and analysts to:
 ├── dataset.csv # Sample HR dataset (anonymized)
 ├── README.md # Project overview and usage
 
-##  Getting Started
-
 ### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/yourusername/hr-analytics-dashboard.git
 cd hr-analytics-dashboard
+
+Install dependencies
+pip install pandas dash plotly dash-bootstrap-components
+
+Run the app
+python hr_dashboard.py
+
+Then open your browser and go to:
+ http://127.0.0.1:8050
+
+<img width="547" height="796" alt="Screenshot 2025-07-21 125317" src="https://github.com/user-attachments/assets/fce8dfbd-7e2b-430c-a3d5-72389f92875f" />
+
+## Example Use Cases
+Internal HR performance dashboards
+
+People analytics presentations to leadership
+
+Workforce planning and diversity reports
+
+Exploratory analysis for HR data science projects
+
+## Future Enhancements
+Add filters by location, job title, and education
+
+Export reports as PDF or Excel
+
+Authentication and secure deployment (Heroku, Streamlit, etc.)
+
+## Connect With Me
+https://www.linkedin.com/in/sadarudeen-mi-b803b0247/
+
 
