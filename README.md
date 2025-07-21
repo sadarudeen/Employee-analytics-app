@@ -29,4 +29,7 @@ This dashboard allows HR teams and analysts to:
 git clone https://github.com/yourusername/hr-analytics-dashboard.git
 cd hr-analytics-dashboard
 
+## Install dependencies
+pip install pandas dash plotly dash-bootstrap-components
+
 
