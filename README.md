@@ -20,7 +20,6 @@ This dashboard allows HR teams and analysts to:
 ├── dataset.csv # Sample HR dataset (anonymized)
 ├── README.md # Project overview and usage
 
-
 ##  Getting Started
 
 ### 1. Clone the repository
@@ -28,8 +27,4 @@ This dashboard allows HR teams and analysts to:
 ```bash
 git clone https://github.com/yourusername/hr-analytics-dashboard.git
 cd hr-analytics-dashboard
-Install dependencies
-pip install pandas dash plotly dash-bootstrap-components
- Run the app
-python hr_dashboard.py
 
